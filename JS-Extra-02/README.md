@@ -11,7 +11,3 @@ Are you ready to make your stopwatch from the previous exercise even better?
 ### Exercise 1
 
 Make your stopwatch object oriented. You can chose your architecture - what should be the main object?
-
-### Exercise 2
-
-Implement unit tests on your stopwatch.
